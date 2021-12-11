@@ -1,5 +1,5 @@
 # Python-Mundo-01-
 Resolução de 35 xxercícios propostos ao longo de Curso em Vídeo - Python Mundo 01. <br>
 Foi desenvolvido certa de 35 exercícios de nível básico ministrados pelo Profº Guanabara. <br>
-Última atividade em 15 de setembro de 2021.
+Última atividade em 15 de setembro de 2021. <br>
 Certificado válido https://www.cursoemvideo.com/validacao-de-certificado/?codigo=1E019-66E2-7 
