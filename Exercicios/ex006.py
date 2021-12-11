@@ -1,0 +1,6 @@
+print('{:^40}'.format('Exercício 006'))
+print('{:=^40}'.format('DOBRO, TRIPLO E RAIZ QUADRADA'))
+print('Crie um algoritimo que leia um número e mostre o seu dobro, triplo e raiz quadrada.')
+num = int(input('Digite um número: '))
+print('Você digitou {}, logo seu dobro é {}, \nseu triplo é {} e a raiz quadrada é {:.2f}'. format(num, num * 2, num * 3, num**(1/2) ))
+# Posso usar a potência com pow(n,(1/2)
